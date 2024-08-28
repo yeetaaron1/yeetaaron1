@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aaron
 
 ### 👀 Interests
-I'm a college student studying business and programming. Thanks to the Minecraft Java community, I've learned—and am still learning—how to code in Java, along with other skills like JavaScript, Python, and a bit of C# and C++. I’m passionate about creating Minecraft mods, plugins, addons, and resource packs (and, of course, other projects that aren’t Minecraft-related). I've also developed skills in server management, focusing on seamless integrations between Java and Bedrock editions. Additionally, I enjoy coding Discord bots, building websites, and developing custom APIs.
+I'm a college student studying business and programming. Thanks to the Minecraft Java community, I've learned—and am still learning—how to code in Java, along with other skills like JavaScript, Python, and a bit of C# and C++. I’m passionate about creating Minecraft mods, plugins, addons, and resource packs (and, of course, other projects that aren’t Minecraft-related). I've also developed skills in server management. Additionally, I enjoy coding Discord bots, building websites, and developing custom APIs.
 
 ### 🌱 Currently Learning
 - Advanced Minecraft plugin development using the Velocity, BungeeCord, Paper (Spigot), Forge, and Fabric APIs
